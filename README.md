@@ -11,7 +11,9 @@ https://drive.google.com/drive/folders/1HZdLHo_gdhdaRKCTz_0489ItyXfyDlpD?usp=dri
 ## Autoevaluación y coevaluación
 ### Valeria Guadalupe
 #### Autoevaluación
+Mi desempeño fue el adecuado aunque se presentaron algunos obstáculos siempre busqué una forma de resolver los probemas que se presentaban para solucionarlos de la forma más adecauada y eficiente posible.
 #### Coevaluación
+Pao fue  buena compañera durante todo el proyecto, aportó ideas creativas y ayudó cuando se presentaron problemas en el proyecto. Manejó muy bien los tiempos así como el éstres, mantuvo la calma y cuando no sabía cómo hacer algo investigó hasta encontrar la solución. Se mantuvo con actitud positiva en los momentos de frustación.
 ### Paola Jaqueline 
 #### Autoevaluación
 En general siento que mi desempeño fue el adecuado aunque si me pude a ver esforzado más para la elaboración de este proyecto.
