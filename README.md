@@ -3,6 +3,7 @@
 ### Exámenes de Cisco NetAcad
 https://drive.google.com/drive/folders/1HZdLHo_gdhdaRKCTz_0489ItyXfyDlpD?usp=drive_link
 ## Práctica
+![Image](https://github.com/user-attachments/assets/f49937b1-3c11-4391-b301-41b615ca611b)
 ## Autoevaluación y coevaluación
 ### Valeria Guadalupe
 #### Autoevaluación
