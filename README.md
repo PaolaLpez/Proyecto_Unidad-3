@@ -3,3 +3,12 @@
 ### Exámenes de Cisco NetAcad
 https://drive.google.com/drive/folders/1HZdLHo_gdhdaRKCTz_0489ItyXfyDlpD?usp=drive_link
 ## Práctica
+## Autoevaluación y coevaluación
+### Valeria Guadalupe
+#### Autoevaluación
+#### Coevaluación
+### Paola Jaqueline 
+#### Autoevaluación
+En general siento que mi desempeño fue el adecuado aunque si me pude a ver esforzado más para la elaboración de este proyecto.
+#### Coevaluación
+Vale fue una compañera buena durante todo el proyecto. Siempre aportó ideas creativas y ayudó cuando se presentaron problemas técnicos como los de los sensores y las pantallas. Además, supo manejar muy bien los momentos de frustración, mantuvo la calma y cuando no sabía cómo hacer algo, se ponía a investigar hasta encontrar la solución. Mantuvo actitud positiva aunque a veces no sabiamos que hacer, sobre todo me apoyó mucho por mi estado de salud siempre estuvo dispuesta a ayudar y explicarme cada detalle.
