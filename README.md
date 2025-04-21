@@ -3,6 +3,14 @@
 ### Exámenes de Cisco NetAcad
 https://drive.google.com/drive/folders/1HZdLHo_gdhdaRKCTz_0489ItyXfyDlpD?usp=drive_link
 ## Práctica
+### Documentación
+Sistema de Riego Automatizado con Bomba de Agua 
+#### Objetivo del sistema
+Automatizar el riego en función de las condiciones del suelo, optimizando el uso del agua y reduciendo la intervención humana. Se busca mantener los niveles de humedad adecuados y permitir que la bomba opere varios días con lógica de reposo y activación programada.
+#### Funcionamiento del sistema
+El sensor de humedad detecta si las plantas están secas. Si la lectura está por debajo de un umbral predefinido, el ESP32 activa el relay y enciende la bomba de agua. Tras un período de riego controlado (p. ej., 10 minutos), la bomba se apaga. Este ciclo puede repetirse diariamente o cada cierto número de horas si se utiliza un módulo RTC.
+#### Componentes del sistema 
+![Image](https://github.com/user-attachments/assets/5ffc3a5a-7f27-415d-a22f-a5a537903584)
 ### Representaciones gráficas
 ![Image](https://github.com/user-attachments/assets/f49937b1-3c11-4391-b301-41b615ca611b)
 ![Image](https://github.com/user-attachments/assets/c9154193-2cbb-4285-80af-18d11ff9a075)
