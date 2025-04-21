@@ -1,0 +1,56 @@
+[
+    {
+        "id": "63d1aed470d07c1f",
+        "type": "ui_switch",
+        "z": "76b5eafa9f2d1e1f",
+        "name": "",
+        "label": "Prender",
+        "tooltip": "",
+        "group": "7bec233d36072009",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "proyecto_invernadero",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "0",
+        "onvalueType": "num",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "1",
+        "offvalueType": "num",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 300,
+        "y": 80,
+        "wires": [
+            [
+                "8efdcfcfbc7a1d88"
+            ]
+        ]
+    },
+    {
+        "id": "7bec233d36072009",
+        "type": "ui_group",
+        "name": "Botón",
+        "tab": "82c4781cf292fcfb",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "82c4781cf292fcfb",
+        "type": "ui_tab",
+        "name": "Invernadero",
+        "icon": "dashboard",
+        "order": 10,
+        "disabled": false,
+        "hidden": false
+    }
+]
