@@ -4,6 +4,9 @@
 https://drive.google.com/drive/folders/1HZdLHo_gdhdaRKCTz_0489ItyXfyDlpD?usp=drive_link
 ## Práctica
 ![Image](https://github.com/user-attachments/assets/f49937b1-3c11-4391-b301-41b615ca611b)
+![Image](https://github.com/user-attachments/assets/c9154193-2cbb-4285-80af-18d11ff9a075)
+![Image](https://github.com/user-attachments/assets/6e4d7983-0db9-45fb-b3d1-521b64950b0c)
+![Image](https://github.com/user-attachments/assets/64b4ecca-b4be-4b51-9ba7-8cadb28c7103)
 ## Autoevaluación y coevaluación
 ### Valeria Guadalupe
 #### Autoevaluación
